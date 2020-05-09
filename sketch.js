@@ -83,6 +83,4 @@ function randomVelocity()
   /* this function gets called when the ball bounces off the paddle */
   /* assign the ball a random vertical velocity, so it bounces off in random direction */
   ball.velocityY = random(-8,8)
- 
 }
-
